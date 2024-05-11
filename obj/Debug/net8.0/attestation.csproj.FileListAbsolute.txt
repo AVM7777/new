@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\bin\Debug\net8.0\attestation.exe
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\bin\Debug\net8.0\attestation.deps.json
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\bin\Debug\net8.0\attestation.runtimeconfig.json
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\bin\Debug\net8.0\attestation.dll
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\bin\Debug\net8.0\attestation.pdb
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.AssemblyInfo.cs
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.dll
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\refint\attestation.dll
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.pdb
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\attestation.genruntimeconfig.cache
+C:\Users\User\Desktop\гиг брейнс\attistation may\attestation\obj\Debug\net8.0\ref\attestation.dll
